@@ -10,4 +10,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Approve PR
-        run: echo "hejsa"
+        run: echo "hejsa -------"
